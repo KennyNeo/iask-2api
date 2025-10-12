@@ -1,0 +1,10 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+httpx
+pydantic-settings
+python-dotenv
+requests
+beautifulsoup4
+html2text
+playwright
